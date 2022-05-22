@@ -1,5 +1,7 @@
 Digital Design and Computer Architecture, ETH Zürich, Spring 2022 (https://safari.ethz.ch/digitaltechnik...)
 
+Link to [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=16852)
+
 Lecture 22: Memory Organization and Memory Technology
 Lecturer: Professor Onur Mutlu (https://people.inf.ethz.ch/omutlu/)
 Date: May 19, 2022
