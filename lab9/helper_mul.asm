@@ -2,7 +2,7 @@
 # Calculate sum from A to B. No initialized data memory needed here.
 #
 # Author: 
-#  Luka Malisa <malisal@student.ethz.ch>
+# hoeuyu_at_ethz.ch
 
 .text
 
