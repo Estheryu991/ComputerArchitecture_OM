@@ -1,0 +1,5 @@
+NET "CLK" LOC = "T9" ;
+NET "RESET" LOC = "L14";
+
+NET "CLK" TNM_NET = "clk_net";
+TIMESPEC "TS_CLK" = PERIOD "clk_net" 100 ns ;
